@@ -10,7 +10,11 @@
     <p><span>Författare:</span> {book.author}</p>
     <p>
       <span>Status:</span>
-      {#if book.status} Utlånad {:else} Ej utlånad {/if}
+      {#if book.status}
+        <span class="out">Utlånad</span>
+      {:else}
+        <span class="in">Ej utlånad</span>
+      {/if}
     </p>
   </div>
 </div>
@@ -37,5 +41,11 @@
   }
   img {
     height: 120px;
+  }
+  .out {
+    color: red;
+  }
+  .in {
+    color: green;
   }
 </style>

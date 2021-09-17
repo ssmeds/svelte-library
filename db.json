@@ -1,5 +1,6 @@
 {
-  "books": [{
+  "books": [
+    {
       "id": 2,
       "title": "andra boken",
       "author": "stina igen",
@@ -11,14 +12,14 @@
       "author": "av nån",
       "id": 4,
       "status": false,
-      "img": "https://images-eu.ssl-images-amazon.com/images/I/415iyV7T6XS._AC_SX184_.jpg"
+      "img": "https://images-na.ssl-images-amazon.com/images/I/41c+dI-nkVL._SX308_BO1,204,203,200_.jpg"
     },
     {
       "title": "ny titel",
       "author": "ny author",
       "status": true,
       "id": 6,
-      "img": "https://images-eu.ssl-images-amazon.com/images/I/415iyV7T6XS._AC_SX184_.jpg"
+      "img": "https://images-na.ssl-images-amazon.com/images/I/51EhtBbr5+L._SX313_BO1,204,203,200_.jpg"
     },
     {
       "title": "nu då",
@@ -32,42 +33,42 @@
       "author": "funkar",
       "status": false,
       "id": 10,
-      "img": "https://images-eu.ssl-images-amazon.com/images/I/415iyV7T6XS._AC_SX184_.jpg"
+      "img": "https://images-na.ssl-images-amazon.com/images/I/51VtB6E2ucL._SX371_BO1,204,203,200_.jpg"
     },
     {
       "title": "först",
       "author": "eller",
       "status": false,
       "id": 11,
-      "img": "https://images-eu.ssl-images-amazon.com/images/I/415iyV7T6XS._AC_SX184_.jpg"
+      "img": "https://images-na.ssl-images-amazon.com/images/I/31QVhGi3NIL._SX316_BO1,204,203,200_.jpg"
     },
     {
       "title": "Snabba Cash",
       "author": "Lapidus",
       "status": true,
       "id": 12,
-      "img": "https://images-eu.ssl-images-amazon.com/images/I/415iyV7T6XS._AC_SX184_.jpg"
+      "img": "https://images-na.ssl-images-amazon.com/images/I/41a3rSds+XL._SX354_BO1,204,203,200_.jpg"
     },
     {
       "title": "senaste",
       "author": "boken",
       "status": true,
       "id": 13,
-      "img": "https://images-eu.ssl-images-amazon.com/images/I/415iyV7T6XS._AC_SX184_.jpg"
+      "img": "https://images-na.ssl-images-amazon.com/images/I/51L8JFYuyJL._SX320_BO1,204,203,200_.jpg"
     },
     {
       "title": "allra senaste",
       "author": "boken",
-      "status": false,
+      "status": true,
       "id": 14,
-      "img": "https://images-eu.ssl-images-amazon.com/images/I/415iyV7T6XS._AC_SX184_.jpg"
+      "img": "https://images-na.ssl-images-amazon.com/images/I/51+J8L-LkAL._SX308_BO1,204,203,200_.jpg"
     },
     {
       "title": "det",
       "author": "funkar!!!!!",
       "status": true,
       "id": 15,
-      "img": "https://images-eu.ssl-images-amazon.com/images/I/415iyV7T6XS._AC_SX184_.jpg"
+      "img": "https://images-na.ssl-images-amazon.com/images/I/41eXdcOk71L._SX365_BO1,204,203,200_.jpg"
     }
   ]
 }

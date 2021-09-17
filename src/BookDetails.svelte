@@ -88,4 +88,7 @@
   input {
     margin-top: 4rem;
   }
+  img {
+    width: 170px;
+  }
 </style>
