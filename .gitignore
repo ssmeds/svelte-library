@@ -1,4 +1,5 @@
-/node_modules/
-
-
+#first line
 .DS_Store
+
+node_modules/
+
